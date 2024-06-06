@@ -1,0 +1,513 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="df21d56e-9cc4-4eb0-bebf-8e4e5b9c75a8" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/flutter_food_app/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_food_app/.metadata" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_food_app/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_food_app/analysis_options.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_food_app/android/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_food_app/android/app/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_food_app/android/app/src/debug/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_food_app/android/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_food_app/android/app/src/main/kotlin/com/example/ecommerce_app/MainActivity.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_food_app/android/app/src/main/res/drawable-hdpi/splash.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_food_app/android/app/src/main/res/drawable-mdpi/splash.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_food_app/android/app/src/main/res/drawable-v21/background.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_food_app/android/app/src/main/res/drawable-v21/launch_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_food_app/android/app/src/main/res/drawable-xhdpi/splash.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_food_app/android/app/src/main/res/drawable-xxhdpi/splash.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_food_app/android/app/src/main/res/drawable-xxxhdpi/splash.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_food_app/android/app/src/main/res/drawable/background.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_food_app/android/app/src/main/res/drawable/launch_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_food_app/android/app/src/main/res/mipmap-hdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_food_app/android/app/src/main/res/mipmap-mdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_food_app/android/app/src/main/res/mipmap-xhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_food_app/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_food_app/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_food_app/android/app/src/main/res/values-night/styles.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_food_app/android/app/src/main/res/values-v31/styles.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_food_app/android/app/src/main/res/values/styles.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_food_app/android/app/src/profile/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_food_app/android/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_food_app/android/gradle.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_food_app/android/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_food_app/android/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_food_app/assets/10.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_food_app/assets/bus.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_food_app/assets/cart_filled.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_food_app/assets/cart_white.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_food_app/assets/current_loc.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_food_app/assets/dropdown.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_food_app/assets/facebook.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_food_app/assets/fav_filled.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_food_app/assets/fir.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_food_app/assets/fire.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_food_app/assets/hamburger.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_food_app/assets/icons/facebook-2.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_food_app/assets/icons/google-icon.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_food_app/assets/icons/loc.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_food_app/assets/icons/offer.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_food_app/assets/icons/offer.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_food_app/assets/icons/person.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_food_app/assets/icons/vector4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_food_app/assets/login.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_food_app/assets/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_food_app/assets/lottie/no_connection.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_food_app/assets/map.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_food_app/assets/maping.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_food_app/assets/notfound.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_food_app/assets/onboarding/onboarding1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_food_app/assets/onboarding/onboarding2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_food_app/assets/onboarding/onboarding3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_food_app/assets/paypal.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_food_app/assets/profile.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_food_app/assets/search_filled.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_food_app/assets/splash.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_food_app/assets/splash/splash.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_food_app/assets/star.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_food_app/assets/star_filled.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_food_app/assets/user.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_food_app/assets/userimage.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_food_app/assets/visa2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_food_app/ios/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_food_app/ios/Flutter/AppFrameworkInfo.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_food_app/ios/Flutter/Debug.xcconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_food_app/ios/Flutter/Release.xcconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_food_app/ios/Runner.xcodeproj/project.pbxproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_food_app/ios/Runner.xcodeproj/project.xcworkspace/contents.xcworkspacedata" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_food_app/ios/Runner.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_food_app/ios/Runner.xcodeproj/project.xcworkspace/xcshareddata/WorkspaceSettings.xcsettings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_food_app/ios/Runner.xcodeproj/xcshareddata/xcschemes/Runner.xcscheme" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_food_app/ios/Runner.xcworkspace/contents.xcworkspacedata" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_food_app/ios/Runner.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_food_app/ios/Runner.xcworkspace/xcshareddata/WorkspaceSettings.xcsettings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_food_app/ios/Runner/AppDelegate.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_food_app/ios/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_food_app/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-1024x1024@1x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_food_app/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@1x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_food_app/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_food_app/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_food_app/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@1x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_food_app/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_food_app/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_food_app/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@1x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_food_app/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_food_app/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_food_app/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-60x60@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_food_app/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-60x60@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_food_app/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-76x76@1x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_food_app/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-76x76@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_food_app/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-83.5x83.5@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_food_app/ios/Runner/Assets.xcassets/LaunchBackground.imageset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_food_app/ios/Runner/Assets.xcassets/LaunchBackground.imageset/background.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_food_app/ios/Runner/Assets.xcassets/LaunchImage.imageset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_food_app/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_food_app/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_food_app/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_food_app/ios/Runner/Assets.xcassets/LaunchImage.imageset/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_food_app/ios/Runner/Base.lproj/LaunchScreen.storyboard" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_food_app/ios/Runner/Base.lproj/Main.storyboard" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_food_app/ios/Runner/Info.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_food_app/ios/Runner/Runner-Bridging-Header.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_food_app/lib/data/static/static.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_food_app/lib/enums/loading_state.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_food_app/lib/enums/loading_types.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_food_app/lib/locale/locale.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_food_app/lib/locale/locale_controller.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_food_app/lib/logic/bindings/address_bindings.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_food_app/lib/logic/bindings/auth_bindings.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_food_app/lib/logic/bindings/cart_bindings.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_food_app/lib/logic/bindings/category_bindings.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_food_app/lib/logic/bindings/checkout_binding.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_food_app/lib/logic/bindings/controller_binding.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_food_app/lib/logic/bindings/favorites_bindings.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_food_app/lib/logic/bindings/fode_bindings.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_food_app/lib/logic/bindings/home_bindings.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_food_app/lib/logic/bindings/main_bindings.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_food_app/lib/logic/bindings/myLocaleBinding.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_food_app/lib/logic/bindings/offer_binding.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_food_app/lib/logic/bindings/onBoarding_bindings.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_food_app/lib/logic/bindings/onBoarding_home_bindings.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_food_app/lib/logic/bindings/productDetails_bindings.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_food_app/lib/logic/bindings/product_bindings.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_food_app/lib/logic/bindings/profileSettingBinding.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_food_app/lib/logic/bindings/resturantPage_bindings.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_food_app/lib/logic/bindings/resturant_bindings.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_food_app/lib/logic/bindings/reviewProduct_bindings.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_food_app/lib/logic/bindings/search_bindings.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_food_app/lib/logic/bindings/settengs_bindings.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_food_app/lib/logic/controllers/address_controllers.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_food_app/lib/logic/controllers/auth_controllers.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_food_app/lib/logic/controllers/cart_controllers.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_food_app/lib/logic/controllers/category_controller.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_food_app/lib/logic/controllers/checkout_controller.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_food_app/lib/logic/controllers/connection_manager_controller.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_food_app/lib/logic/controllers/favorites_conntroller.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_food_app/lib/logic/controllers/food_controller.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_food_app/lib/logic/controllers/home_controllers.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_food_app/lib/logic/controllers/main_controller.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_food_app/lib/logic/controllers/offer_controller.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_food_app/lib/logic/controllers/onboarding_controller.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_food_app/lib/logic/controllers/onboarding_home_controller.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_food_app/lib/logic/controllers/payment_controller.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_food_app/lib/logic/controllers/productDetails.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_food_app/lib/logic/controllers/product_controller.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_food_app/lib/logic/controllers/profileSetting.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_food_app/lib/logic/controllers/restaurantPage_controller.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_food_app/lib/logic/controllers/resturant_controller.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_food_app/lib/logic/controllers/reviewProduct_controllers.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_food_app/lib/logic/controllers/search_controller.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_food_app/lib/logic/controllers/settings_controller.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_food_app/lib/logic/controllers/theme_controller.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_food_app/lib/main.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_food_app/lib/model/allCategories.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_food_app/lib/model/cart/cart_model.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_food_app/lib/model/cart/checkOut_model.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_food_app/lib/model/cart/order.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_food_app/lib/model/category_model.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_food_app/lib/model/favorites_model.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_food_app/lib/model/homeProdect/homeProdect.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_food_app/lib/model/homeProdect/homeProdectData.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_food_app/lib/model/homeRestaurant/homeRestaurantData.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_food_app/lib/model/homeRestaurant/homeRestaurant_modle.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_food_app/lib/model/offer/all_offer.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_food_app/lib/model/offer/links_model.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_food_app/lib/model/offer/offerData_model.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_food_app/lib/model/offer/offerListData_model.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_food_app/lib/model/offer/offerProdet_model.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_food_app/lib/model/offer/offer_model.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_food_app/lib/model/onboardingmodel.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_food_app/lib/model/prodect/links.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_food_app/lib/model/prodect/prodectCategory_modle.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_food_app/lib/model/prodect/prodectData_modle.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_food_app/lib/model/prodect/prodectRestaurant_modle.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_food_app/lib/model/prodect/prodect_modle.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_food_app/lib/model/prodect/productDetails_modle.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_food_app/lib/model/product_models.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_food_app/lib/model/restauntAll/allResrtaurantData_model.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_food_app/lib/model/restauntAll/categories_model.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_food_app/lib/model/restauntAll/dataOfRestaurant.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_food_app/lib/model/restauntAll/links_model.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_food_app/lib/model/restauntAll/restaurantPage_model.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_food_app/lib/model/restauntAll/restaurants_model.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_food_app/lib/model/restaurants/categories.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_food_app/lib/model/restaurants/data_modle.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_food_app/lib/model/restaurants/links_modle.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_food_app/lib/model/restaurants/restaurant_modle.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_food_app/lib/model/restaurants/restaurantsData_modle.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_food_app/lib/model/restaurants/restaurants_modle.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_food_app/lib/model/restaurantsDetails_model.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_food_app/lib/model/review/reviewProdect_model.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_food_app/lib/model/search/search_Model.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_food_app/lib/model/updateProfile/updateProfile.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_food_app/lib/model/user.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_food_app/lib/routes/routes.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_food_app/lib/services/auth_api.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_food_app/lib/services/baseAPI.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_food_app/lib/services/cart_services.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_food_app/lib/services/check_internet.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_food_app/lib/services/food_services.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_food_app/lib/services/helper/crud.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_food_app/lib/services/helper/handingdatacontroller.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_food_app/lib/services/helper/handlingdataitemcount.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_food_app/lib/services/helper/handlingdataview.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_food_app/lib/services/helper/handlingwithshamer.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_food_app/lib/services/helper/statusrequest.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_food_app/lib/services/home_services.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_food_app/lib/services/offer_servces.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_food_app/lib/services/restaurant_services.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_food_app/lib/services/reviewProduct_services.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_food_app/lib/services/search_services.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_food_app/lib/services/settings_services.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_food_app/lib/utils/constant/imageasset.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_food_app/lib/utils/my_string.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_food_app/lib/utils/sharPreferenceUtils .dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_food_app/lib/utils/theme.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_food_app/lib/view/screens/allFood_Screen.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_food_app/lib/view/screens/auth/ForgotPassword/forgotpassword_screen.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_food_app/lib/view/screens/auth/ForgotPassword/newPwScreen.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_food_app/lib/view/screens/auth/ForgotPassword/sendOTPScreen.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_food_app/lib/view/screens/auth/login_screen.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_food_app/lib/view/screens/auth/signup_screen.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_food_app/lib/view/screens/cart/cart_screen.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_food_app/lib/view/screens/cart/changeAddressScreen.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_food_app/lib/view/screens/cart/checkout_screen.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_food_app/lib/view/screens/category_screen.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_food_app/lib/view/screens/favorites_screen.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_food_app/lib/view/screens/food_screen.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_food_app/lib/view/screens/home_screen.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_food_app/lib/view/screens/main_screen.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_food_app/lib/view/screens/notification_screen.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_food_app/lib/view/screens/onboarding_screen.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_food_app/lib/view/screens/product_details_scree.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_food_app/lib/view/screens/resturant_Screen.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_food_app/lib/view/screens/review/allReview_screen.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_food_app/lib/view/screens/review/writeReview_screen.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_food_app/lib/view/screens/search/filter_screen.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_food_app/lib/view/screens/search/searchForMeal.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_food_app/lib/view/screens/search/searchForRestant.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_food_app/lib/view/screens/search/search_screen.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_food_app/lib/view/screens/settings/changePassword_screen.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_food_app/lib/view/screens/settings/myOrders.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_food_app/lib/view/screens/settings/offer_screen.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_food_app/lib/view/screens/settings/profileSetting.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_food_app/lib/view/screens/settings/restPassword.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_food_app/lib/view/screens/settings/settings_screen.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_food_app/lib/view/screens/settings/tabBarScreen.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_food_app/lib/view/screens/splash_screen.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_food_app/lib/view/widgets/AllFood/appBarMeal.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_food_app/lib/view/widgets/AllFood/choseMenu.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_food_app/lib/view/widgets/AllFood/mealCard.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_food_app/lib/view/widgets/Filter/rangeSlider.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_food_app/lib/view/widgets/auth/auth_button.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_food_app/lib/view/widgets/auth/auth_textFromField.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_food_app/lib/view/widgets/auth/forgotPassword/appBarForgot.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_food_app/lib/view/widgets/auth/forgotPassword/customTextInput.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_food_app/lib/view/widgets/auth/forgotPassword/sendButton.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_food_app/lib/view/widgets/auth/forgotPassword/textField.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_food_app/lib/view/widgets/auth/gestureDetectorloginScreen.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_food_app/lib/view/widgets/auth/login/LoginWith.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_food_app/lib/view/widgets/auth/login/forgotPassword.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_food_app/lib/view/widgets/auth/login/lineWidget.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_food_app/lib/view/widgets/auth/login/noAccountText.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_food_app/lib/view/widgets/auth/login/socal_card.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_food_app/lib/view/widgets/auth/login/socialLogin.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_food_app/lib/view/widgets/auth/login/topImage.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_food_app/lib/view/widgets/auth/login/topTitile.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_food_app/lib/view/widgets/auth/newPwScreen/newPwScreen.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_food_app/lib/view/widgets/auth/preferredSizeInAppBar.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_food_app/lib/view/widgets/auth/register/haveAccountText.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_food_app/lib/view/widgets/auth/register/topTitile.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_food_app/lib/view/widgets/auth/sendOTPScreen/pinCodeTextFieldOTP.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_food_app/lib/view/widgets/cart/appBarCart.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_food_app/lib/view/widgets/cart/checkout/addCardButton.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_food_app/lib/view/widgets/cart/checkout/addres.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_food_app/lib/view/widgets/cart/checkout/deliveryAddress.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_food_app/lib/view/widgets/cart/checkout/listTileCard.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_food_app/lib/view/widgets/cart/checkout/orderDetails.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_food_app/lib/view/widgets/cart/checkout/paymentCard.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_food_app/lib/view/widgets/cart/checkout/showModal0BottomSheetDone.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_food_app/lib/view/widgets/cart/checkout/showModalBottomSheetCardbay.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_food_app/lib/view/widgets/cart/checkout/showOrderDit.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_food_app/lib/view/widgets/cart/counter.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_food_app/lib/view/widgets/cart/customCard.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_food_app/lib/view/widgets/cart/customRow.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_food_app/lib/view/widgets/cart/customTextInput.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_food_app/lib/view/widgets/cart/listViewItem.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_food_app/lib/view/widgets/cart/mySeparator.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_food_app/lib/view/widgets/cart/searchBar.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_food_app/lib/view/widgets/category/appBarCategory.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_food_app/lib/view/widgets/category/cardCatrgory.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_food_app/lib/view/widgets/category/choseMenu.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_food_app/lib/view/widgets/category/choseMenuRating.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_food_app/lib/view/widgets/custom_widget.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_food_app/lib/view/widgets/favorite/appBarFavorites.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_food_app/lib/view/widgets/favorite/itemListView.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_food_app/lib/view/widgets/favorite/leadingListTile.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_food_app/lib/view/widgets/favorite/trailingListTile.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_food_app/lib/view/widgets/get_snackbar.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_food_app/lib/view/widgets/home/appbarItem.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_food_app/lib/view/widgets/home/customRowHomePage.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_food_app/lib/view/widgets/home/foodsView.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_food_app/lib/view/widgets/home/gridviewItem.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_food_app/lib/view/widgets/home/onboardingtime.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_food_app/lib/view/widgets/home/onbordingItem.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_food_app/lib/view/widgets/home/popularfoodsCard.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_food_app/lib/view/widgets/home/resturantCard.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_food_app/lib/view/widgets/home/star.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_food_app/lib/view/widgets/home/textField.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_food_app/lib/view/widgets/home/timeOnBoarding.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_food_app/lib/view/widgets/main/bottomNavigationBar.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_food_app/lib/view/widgets/offer/offerSearch.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_food_app/lib/view/widgets/onboarding/onBoarding.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_food_app/lib/view/widgets/onboarding/onBoardingColumn.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_food_app/lib/view/widgets/onboarding/onBoardingIndicator.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_food_app/lib/view/widgets/onboarding/onBoardingIndicator_home.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_food_app/lib/view/widgets/onboarding/onBoardingRow.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_food_app/lib/view/widgets/productDetails/backIcon.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_food_app/lib/view/widgets/productDetails/customTriangle.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_food_app/lib/view/widgets/productDetails/description.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_food_app/lib/view/widgets/productDetails/descriptionText.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_food_app/lib/view/widgets/productDetails/imageShadow.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_food_app/lib/view/widgets/productDetails/itemCounter.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_food_app/lib/view/widgets/productDetails/ratingBarRev.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_food_app/lib/view/widgets/productDetails/reviewProduct.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_food_app/lib/view/widgets/productDetails/seeMore.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_food_app/lib/view/widgets/productDetails/showImage.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_food_app/lib/view/widgets/productDetails/supTitle.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_food_app/lib/view/widgets/productDetails/titelText.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_food_app/lib/view/widgets/profile/appBarProfile.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_food_app/lib/view/widgets/profile/customRow.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_food_app/lib/view/widgets/profile/rowWithText.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_food_app/lib/view/widgets/profile/viewImage.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_food_app/lib/view/widgets/resturant/appBarRes.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_food_app/lib/view/widgets/resturant/cardRes.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_food_app/lib/view/widgets/resturant/imageRes.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_food_app/lib/view/widgets/resturant/resturantDetails.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_food_app/lib/view/widgets/review/appBarRev.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_food_app/lib/view/widgets/review/cardRev.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_food_app/lib/view/widgets/review/ratingBar.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_food_app/lib/view/widgets/review/reviewRating.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_food_app/lib/view/widgets/search/filter/filterAppBar.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_food_app/lib/view/widgets/search/filter/rangeSlider.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_food_app/lib/view/widgets/search/filterContainer.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_food_app/lib/view/widgets/search/itemCard.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_food_app/lib/view/widgets/search/listTileCard.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_food_app/lib/view/widgets/search/searchAppBar.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_food_app/lib/view/widgets/search/searchTextField.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_food_app/lib/view/widgets/search/showNotFound.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_food_app/lib/view/widgets/settings/buildIconWidget.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_food_app/lib/view/widgets/settings/costomColumn.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_food_app/lib/view/widgets/settings/csutomCard.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_food_app/lib/view/widgets/settings/dropdownMenuItemLanguage.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_food_app/lib/view/widgets/settings/offer/appBarOffer.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_food_app/lib/view/widgets/settings/rowWithSwitchNotification.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_food_app/lib/view/widgets/settings/rowWithSwitchTheme.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_food_app/lib/view/widgets/settings/rowWithoutSwitchPassword.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_food_app/lib/view/widgets/settings/rowWithoutSwitchProfile.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_food_app/lib/view/widgets/settings/tabBarOrder.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_food_app/lib/view/widgets/settings/userDetails.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_food_app/lib/view/widgets/splash/buttomRow.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_food_app/lib/view/widgets/splash/logoContainer.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_food_app/lib/view/widgets/textWithFont.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_food_app/linux/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_food_app/linux/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_food_app/linux/flutter/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_food_app/linux/flutter/generated_plugin_registrant.cc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_food_app/linux/flutter/generated_plugin_registrant.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_food_app/linux/flutter/generated_plugins.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_food_app/linux/main.cc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_food_app/linux/my_application.cc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_food_app/linux/my_application.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_food_app/macos/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_food_app/macos/Flutter/Flutter-Debug.xcconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_food_app/macos/Flutter/Flutter-Release.xcconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_food_app/macos/Flutter/GeneratedPluginRegistrant.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_food_app/macos/Runner.xcodeproj/project.pbxproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_food_app/macos/Runner.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_food_app/macos/Runner.xcodeproj/xcshareddata/xcschemes/Runner.xcscheme" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_food_app/macos/Runner.xcworkspace/contents.xcworkspacedata" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_food_app/macos/Runner.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_food_app/macos/Runner/AppDelegate.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_food_app/macos/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_food_app/macos/Runner/Assets.xcassets/AppIcon.appiconset/app_icon_1024.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_food_app/macos/Runner/Assets.xcassets/AppIcon.appiconset/app_icon_128.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_food_app/macos/Runner/Assets.xcassets/AppIcon.appiconset/app_icon_16.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_food_app/macos/Runner/Assets.xcassets/AppIcon.appiconset/app_icon_256.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_food_app/macos/Runner/Assets.xcassets/AppIcon.appiconset/app_icon_32.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_food_app/macos/Runner/Assets.xcassets/AppIcon.appiconset/app_icon_512.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_food_app/macos/Runner/Assets.xcassets/AppIcon.appiconset/app_icon_64.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_food_app/macos/Runner/Base.lproj/MainMenu.xib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_food_app/macos/Runner/Configs/AppInfo.xcconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_food_app/macos/Runner/Configs/Debug.xcconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_food_app/macos/Runner/Configs/Release.xcconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_food_app/macos/Runner/Configs/Warnings.xcconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_food_app/macos/Runner/DebugProfile.entitlements" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_food_app/macos/Runner/Info.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_food_app/macos/Runner/MainFlutterWindow.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_food_app/macos/Runner/Release.entitlements" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_food_app/pubspec.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_food_app/pubspec.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_food_app/test/widget_test.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_food_app/web/favicon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_food_app/web/icons/Icon-192.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_food_app/web/icons/Icon-512.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_food_app/web/icons/Icon-maskable-192.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_food_app/web/icons/Icon-maskable-512.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_food_app/web/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_food_app/web/manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_food_app/web/splash/img/dark-1x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_food_app/web/splash/img/dark-2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_food_app/web/splash/img/dark-3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_food_app/web/splash/img/dark-4x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_food_app/web/splash/img/light-1x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_food_app/web/splash/img/light-2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_food_app/web/splash/img/light-3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_food_app/web/splash/img/light-4x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_food_app/web/splash/splash.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_food_app/web/splash/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_food_app/windows/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_food_app/windows/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_food_app/windows/flutter/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_food_app/windows/flutter/generated_plugin_registrant.cc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_food_app/windows/flutter/generated_plugin_registrant.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_food_app/windows/flutter/generated_plugins.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_food_app/windows/runner/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_food_app/windows/runner/Runner.rc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_food_app/windows/runner/flutter_window.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_food_app/windows/runner/flutter_window.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_food_app/windows/runner/main.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_food_app/windows/runner/resource.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_food_app/windows/runner/resources/app_icon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_food_app/windows/runner/runner.exe.manifest" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_food_app/windows/runner/utils.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_food_app/windows/runner/utils.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_food_app/windows/runner/win32_window.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_food_app/windows/runner/win32_window.h" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 3
+}]]></component>
+  <component name="ProjectId" id="2hUIPZbHBuEdL3GGYhdPOeA87R1" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "RunOnceActivity.readMode.enableVisualFormatting": "true",
+    "cf.first.check.clang-format": "false",
+    "cidr.known.project.marker": "true",
+    "dart.analysis.tool.window.visible": "false",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/Waiz Kamboh/Downloads/Flutter-Food-App-master",
+    "show.migrate.to.gradle.popup": "false"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="main.dart" type="FlutterRunConfigurationType" factoryName="Flutter">
+      <option name="filePath" value="$PROJECT_DIR$/lib/main.dart" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="df21d56e-9cc4-4eb0-bebf-8e4e5b9c75a8" name="Changes" comment="" />
+      <created>1717642205924</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1717642205924</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
